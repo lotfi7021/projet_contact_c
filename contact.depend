@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1736462513 source:c:\users\lotfi\onedrive\bureau\contact\function.c
+	"prototype.h"
+
+1736460772 source:c:\users\lotfi\onedrive\bureau\contact\main.c
+	"prototype.h"
+
+1736457760 c:\users\lotfi\onedrive\bureau\contact\prototype.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1736515314 source:c:\users\lotfi\onedrive\bureau\contact\contact\main.c
+	"prototype.h"
+
+1736457760 c:\users\lotfi\onedrive\bureau\contact\contact\prototype.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1736515307 source:c:\users\lotfi\onedrive\bureau\contact\contact\function.c
+	"prototype.h"
+
+1736515307 source:c:\users\lotfi\onedrive\bureau\sesam1\c++\contact\contact\function.c
+	"prototype.h"
+
+1736457760 c:\users\lotfi\onedrive\bureau\sesam1\c++\contact\contact\prototype.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1736515314 source:c:\users\lotfi\onedrive\bureau\sesam1\c++\contact\contact\main.c
+	"prototype.h"
+
